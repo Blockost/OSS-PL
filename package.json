@@ -1,0 +1,23 @@
+{
+  "name": "oss-pl",
+  "version": "1.0.0",
+  "description": "Programming language based on quotes from OSS 117 french comic movies",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blockost/OSS-PL.git"
+  },
+  "keywords": [
+    "Programming",
+    "Language"
+  ],
+  "author": "Simon ESPIGOLE (Blockost)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Blockost/OSS-PL/issues"
+  },
+  "homepage": "https://github.com/Blockost/OSS-PL#readme"
+}
