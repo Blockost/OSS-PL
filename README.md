@@ -8,5 +8,5 @@ Here's a sample of the simplest program you can do in OSS:
 
 ## Transpiler
 This programming language is actually transpiled into `Javascript` by a NodeJs
-server responsible for parsing the code structure and executing the
+back-end responsible for parsing the code structure and executing the
 statements.
