@@ -1,5 +1,6 @@
 # OSS-PL 
-Programming language based on famous OSS 117 French comic movies, inspired by [ArnoldC](https://github.com/lhartikk/ArnoldC)
+Programming language based on one-liners from OSS 117 French comic movies. 
+This project is heavily inspired by [ArnoldC](https://github.com/lhartikk/ArnoldC)
 
 ## Getting started
 Here's a sample of the simplest program you can do in OSS:
