@@ -1,4 +1,7 @@
 # OSS-PL 
+
+![Jean Dujardin (alias Hubert Bonisseur de La Bath)](https://raw.githubusercontent.com/Blockost/OSS-PL/master/thumbnail.jpg "From OSS 117: Cairo, Nest of Spies")
+
 Programming language based on one-liners from OSS 117 French comic movies. 
 This project is heavily inspired by [ArnoldC](https://github.com/lhartikk/ArnoldC)
 
